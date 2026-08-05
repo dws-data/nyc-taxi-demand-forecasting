@@ -1,0 +1,29 @@
+# Jupyter notebook checkpoints (auto-generated, not real content)
+.ipynb_checkpoints/
+
+# OS junk files
+.DS_Store
+Thumbs.db
+
+# Raw/downloaded data -- never stored locally by design (10GB constraint),
+# but ignore the folder's contents just in case, keep the folder itself
+data/*
+!data/.gitkeep
+
+# Claude Code / agent tooling -- personal local config, not a project deliverable
+.claude/
+.agents/
+skills-lock.json
+
+# Internal working process -- not part of the polished deliverable
+diary/
+issues_and_fixes/
+LEARNING_NOTES.md
+powerbi/design_system.md
+powerbi/theme.json
+PROJECT_PLAN.md
+
+# Screenshots -- keep only the final, polished ones
+screenshots/examples/
+screenshots/power_bi/drafts/
+screenshots/python_visuals/drafts/
